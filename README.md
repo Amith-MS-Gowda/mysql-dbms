@@ -151,8 +151,8 @@ With JSON body:
 
 ```json
 {
-  "usn": "1MS21CS001",
-  "name": "Amith Gowda",
+  "usn": "013",
+  "name": "Amith M S Gowda",
   "sem": 6
 }
 ```
